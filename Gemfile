@@ -13,4 +13,4 @@ gem 'monban', '~> 0.1.1'
 gem 'monban-generators'
 gem 'spring',        group: :development
 gem 'bcrypt', '~> 3.1.9'
-
+gem 'paperclip'
